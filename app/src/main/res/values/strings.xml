@@ -4,7 +4,7 @@
     <string name="app_name">Happy Cats</string>
     <string name="hello_world">Hello world! So I can change this huh?</string>
     <string name="action_settings">Settings</string>
-    <string name="edit_message">A new Message has arrived! Yo</string>
+    <string name="edit_message">A new Message has arrived! Yo dawg</string>
     <string name="button_send">Make it so!</string>
     <string name="title_activity_display_message">My Message</string>
 
